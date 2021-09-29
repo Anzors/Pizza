@@ -1,0 +1,5 @@
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp3.1\FactoryPatterns.csproj.AssemblyReference.cache
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp3.1\FactoryPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp3.1\FactoryPatterns.AssemblyInfoInputs.cache
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp3.1\FactoryPatterns.AssemblyInfo.cs
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp3.1\FactoryPatterns.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\bin\Debug\netcoreapp3.1\PizzaFactory.exe
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\bin\Debug\netcoreapp3.1\PizzaFactory.deps.json
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\bin\Debug\netcoreapp3.1\PizzaFactory.runtimeconfig.json
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\bin\Debug\netcoreapp3.1\PizzaFactory.runtimeconfig.dev.json
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\bin\Debug\netcoreapp3.1\PizzaFactory.dll
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\bin\Debug\netcoreapp3.1\PizzaFactory.pdb
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp3.1\PizzaFactory.csproj.AssemblyReference.cache
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp3.1\PizzaFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp3.1\PizzaFactory.AssemblyInfoInputs.cache
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp3.1\PizzaFactory.AssemblyInfo.cs
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp3.1\PizzaFactory.csproj.CoreCompileInputs.cache
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp3.1\PizzaFactory.dll
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp3.1\PizzaFactory.pdb
+C:\Users\anzor\source\repos\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp3.1\PizzaFactory.genruntimeconfig.cache
